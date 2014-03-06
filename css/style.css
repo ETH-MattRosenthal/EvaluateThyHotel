@@ -184,11 +184,19 @@ div.hotel img {
 	width: 226px;
 	padding-left:2px;
 	padding-right:2px;
-	text-align: center;
 }
 
 #last-reviews img {
+	display: inline-block;
+	margin: 5px 13px;
 	width: 200px;
+}
+
+#last-reviews span {
+	display: inline-block;
+	width: 226px;
+	text-align: center;
+	font-weight: bold;
 }
 
 #contest {
@@ -199,6 +207,10 @@ div.hotel img {
 	padding-right:2px;
 }
 
+#contest span {
+	text-align: left;
+	font-weight: bold;
+}
 
 #reviewers {
 	float: right;
