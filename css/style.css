@@ -184,6 +184,7 @@ div.hotel img {
 	width: 226px;
 	padding-left:2px;
 	padding-right:2px;
+	text-align: center;
 }
 
 #last-reviews img {
@@ -197,8 +198,6 @@ div.hotel img {
 	padding-left:2px;
 	padding-right:2px;
 }
-
-
 
 
 #reviewers {
